@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maneur</h1>
+<h1 align="center">Hi 👋, I'm Man3ur</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on **a website**
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.youtube.com/c/ibigames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ibigames" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/kYWFqSNscy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kYWFqSNscy" height="30" width="40" /></a>
 </p>
 
